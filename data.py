@@ -1,0 +1,23 @@
+# data.py
+books = [
+    {"title": "Harry Potter and the Sorcerer's Stone", "genre": "fantasy", 
+     "desc": "A young wizard discovers his magical heritage and attends Hogwarts school."},
+    {"title": "The Chronicles of Narnia", "genre": "fantasy", 
+     "desc": "Children discover a magical wardrobe leading to a fantasy world ruled by a lion."},
+    {"title": "Eragon", "genre": "fantasy", 
+     "desc": "A farm boy finds a dragon egg and becomes a Dragon Rider in a world of magic."},
+    {"title": "Percy Jackson and the Lightning Thief", "genre": "fantasy", 
+     "desc": "A teenager discovers he is a demigod, son of Poseidon, and must prevent a war among the gods."},
+    {"title": "The Name of the Wind", "genre": "fantasy", 
+     "desc": "A legendary wizard recounts his life story of magic, music, and adventure at a university."},
+    {"title": "A Wizard of Earthsea", "genre": "fantasy", 
+     "desc": "A young mage attends a school for wizards and unleashes a shadow creature he must confront."},
+    {"title": "The Golden Compass", "genre": "fantasy", 
+     "desc": "A girl and her daemon embark on a journey through parallel worlds filled with magic and intrigue."},
+    {"title": "Mistborn: The Final Empire", "genre": "fantasy", 
+     "desc": "In a world of ash and mist, a thief uses magical metal powers to overthrow an immortal ruler."},
+    {"title": "The Hobbit", "genre": "fantasy", 
+     "desc": "A homebody hobbit goes on an unexpected quest with dwarves to reclaim a mountain fortress from a dragon."},
+    {"title": "Sabriel", "genre": "fantasy", 
+     "desc": "A young necromancer crosses into a magical realm to rescue her father and battle the undead."},
+]
